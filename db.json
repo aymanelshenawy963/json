@@ -1,17 +1,85 @@
 {
   "categories": [
-    { "id": 1, "name": "Electronics" },
-    { "id": 2, "name": "Clothes" },
-    { "id": 3, "name": "Books" }
+    {
+      "id": "1",
+      "name": "Electronic"
+    },
+    {
+      "id": "2",
+      "name": "Clothes"
+    },
+    {
+      "id": "3",
+      "name": "Books"
+    },
+    {
+      "id": "e008",
+      "name": "hello"
+    }
   ],
   "products": [
-    { "id": 1, "name": "Laptop", "price": 15000, "categoryId": 1, "image": "laptop.jpg" },
-    { "id": 2, "name": "Phone", "price": 8000, "categoryId": 1, "image": "phone.jpg" },
-
-    { "id": 3, "name": "T-shirt", "price": 200, "categoryId": 2, "image": "tshirt.jpg" },
-    { "id": 4, "name": "Jeans", "price": 400, "categoryId": 2, "image": "jeans.jpg" },
-
-    { "id": 5, "name": "Novel", "price": 100, "categoryId": 3, "image": "novel.jpg" },
-    { "id": 6, "name": "Dictionary", "price": 250, "categoryId": 3, "image": "dictionary.jpg" }
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": 15000,
+      "categoryId": 1,
+      "image": "laptop.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Phone",
+      "price": 8000,
+      "categoryId": 1,
+      "image": "phone.jpg"
+    },
+    {
+      "id": "3",
+      "name": "T-shirt",
+      "price": 200,
+      "categoryId": 2,
+      "image": "tshirt.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Jeans",
+      "price": 400,
+      "categoryId": 2,
+      "image": "jeans.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Novel",
+      "price": 100,
+      "categoryId": 3,
+      "image": "novel.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Dictionary",
+      "price": 250,
+      "categoryId": 3,
+      "image": "dictionary.jpg"
+    },
+    {
+      "id": "8b79",
+      "name": "ssd hard",
+      "price": 500,
+      "categoryId": "1",
+      "image": "dictionary.jpg"
+    },
+    {
+      "id": "3263",
+      "name": "first try",
+      "price": 1000,
+      "categoryId": "1",
+      "image": "gamingkeyboard.jpg"
+    },
+    {
+      "id": "661a",
+      "name": "test2",
+      "price": 1000,
+      "categoryId": "2",
+      "image": "wirelessmouse.webp"
+    }
   ]
 }
